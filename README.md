@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souvik
 - 👀 I’m interested in ...webdev,dev-ops,ml
-- 🌱 I’m currently learning ...dsa in java and 
+- 🌱 I’m currently learning ...dsa in java  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twt-@souviktwt1
 - 😄 Pronouns: ...he/him
